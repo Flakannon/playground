@@ -1,6 +1,6 @@
 package main
 
-import "github.com/Flakannon/sandbox/LRU/cache"
+import "github.com/Flakannon/playground/LRU/cache"
 
 func main() {
 	cache := cache.Initialise(3)
